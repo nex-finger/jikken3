@@ -3,7 +3,7 @@
 <p><font soze=6>DataInputDevice for TK-80</font></p>
 </div>
  
-{: align="center"}
+<p align="center">
 ![](https://img.shields.io/badge/licence-masuda-green)
 ![](https://img.shields.io/badge/university-Chiba%20Institute%20of%20Technology-green)
 
@@ -12,6 +12,7 @@
 ![](https://img.shields.io/badge/Kansas%20City%20standard%20(KCS)-blue)
 ![](https://img.shields.io/badge/c++-blue)
 ![](https://img.shields.io/badge/8080assembry-blue)
+</p>
 
 分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
  
