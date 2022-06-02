@@ -41,6 +41,19 @@
  >[TK-80 仕様](http://star.gmobb.jp/koji/cgi/wiki.cgi?page=TK%2D80%BB%F1%CE%C1%A5%E1%A5%E2 "タイトル")
  >
  >[ZK-80について](https://www.recfor.net/blog/mycom/?itemid=883 "タイトル")
+
+ * 🔋部品データ
+ >[Arduino uno](https://akizukidenshi.com/catalog/g/gM-07385/ "タイトル")
+ >
+ >[4bitデコーダマルチプレクサ 74159](https://html.alldatasheet.com/html-pdf/27375/TI/74159/19/1/74159.html "タイトル")
+ >
+ >[]( "タイトル")
+ >
+ >[]( "タイトル")
+ >
+ >[]( "タイトル")
+ >
+ >[]( "タイトル")
  
 # Requirement
  
