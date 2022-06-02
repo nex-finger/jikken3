@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/nex-finger/jikken3/main/Image/school_logo.png" alt="属性" title="タイトル">
-<p><font soze=6>DataInputDevice for TK-80</font></p>
+<p><font soze=7>KCS InputDevice for TK-80</font></p>
 </div>
  
 ![](https://img.shields.io/badge/licence-masuda-green)
@@ -10,13 +10,23 @@
 ![](https://img.shields.io/badge/Arduino-blue)
 ![](https://img.shields.io/badge/TK80-blue)
 ![](https://img.shields.io/badge/Kansas%20City%20standard%20(KCS)-blue)
-![](https://img.shields.io/badge/c++-yellow)
-![](https://img.shields.io/badge/8080assembry-yellow)
-![](https://img.shields.io/badge/Java-yellow)
 
-分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
- 
-"hoge"が何かを簡潔に紹介する
+![](https://img.shields.io/badge/c++-yellow)
+![](https://img.shields.io/badge/Java-yellow)
+![](https://img.shields.io/badge/8080assembry-yellow)
+
+<div align="center">
+<table>
+<tbody>
+<td align="center">
+<img width="2000" height="0"><br>
+Status: <b>Public Beta 🎉</b><br>
+<sub>Made possible by my <a href="https://github.com/sponsors/antfu">Sponsor Program 💖</a></sub><br>
+<img width="2000" height="0">
+</td>
+</tbody>
+</table>
+</div>
  
 # DEMO
  
