@@ -28,14 +28,18 @@
  </div>
  
  
-# KCS InputDevice for TK-80
+# 概要
  
  情報工学実験3の資料置き場
- Kansas City Standard (KCS) を用いたデータの解釈，解釈したデータの入力を実現する
+ Kansas City Standard (KCS) を用いたデータの解釈，解釈したデータのZK-80(TK-80互換機)への入力を実現する
  
-# Features
+# 参考文献
  
-"hoge"のセールスポイントや差別化などを説明する
+ インターネットに蔓延る情報を提供します
+ 
+ <div>
+  <p>💻<a href="http://star.gmobb.jp/koji/cgi/wiki.cgi?page=TK%2D80%BB%F1%CE%C1%A5%E1%A5%E2">TK-80 仕様</a></p><br>
+ </div>
  
 # Requirement
  
