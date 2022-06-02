@@ -6,11 +6,11 @@
 ![](https://img.shields.io/badge/licence-masuda-green)
 ![](https://img.shields.io/badge/university-Chiba%20Institute%20of%20Technology-green)
 
-![](https://img.shields.io/badge/Arduino-red)
-![](https://img.shields.io/badge/TK80-red)
-![](https://img.shields.io/badge/Kansas%20City%20standard%20(KCS)-red)
-![](https://img.shields.io/badge/c++-red)
-![](https://img.shields.io/badge/8080assembry-red)
+![](https://img.shields.io/badge/Arduino-blue)
+![](https://img.shields.io/badge/TK80-blue)
+![](https://img.shields.io/badge/Kansas%20City%20standard%20(KCS)-blue)
+![](https://img.shields.io/badge/c++-blue)
+![](https://img.shields.io/badge/8080assembry-blue)
 
 分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
  
