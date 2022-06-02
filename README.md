@@ -4,7 +4,9 @@
 </div>
  
 ![](https://img.shields.io/badge/licence-masuda-brightgreen)
- 
+![](https://img.shields.io/badge/university-Chiba%20Institute%20of%20Technology-green)
+![](https://img.shields.io/badge/sadfg-kghfjds-green)
+
 分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
  
 "hoge"が何かを簡潔に紹介する
