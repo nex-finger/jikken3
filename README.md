@@ -37,68 +37,31 @@
  
  インターネットに蔓延る情報を提供します<br>
  
- * 💻ハードウェア関連
+ * 💻 ハードウェア関連
  >[TK-80 仕様](http://star.gmobb.jp/koji/cgi/wiki.cgi?page=TK%2D80%BB%F1%CE%C1%A5%E1%A5%E2 "タイトル")
  >
  >[ZK-80について](https://www.recfor.net/blog/mycom/?itemid=883 "タイトル")
  <br>
+ 
+ * 💾 ソフトウェア関連
+ >[8080機械語命令表](http://tyunitidenko.x0.com/nd3setumeisyo/nd3_8080meirei.pdf "タイトル")
+ >
+ >[8080機械語対照表](https://qiita.com/tetr4lab/items/9cdf66144031f149638e "タイトル")
+ >
+ >[ZK-80 モニタプログラム](http://tyunitidenko.x0.com/nd3setumeisyo/nd3_tk80monitor.pdf "タイトル")
 
- * 🔋部品データ
+ * 🔋 部品データ
  >[Arduino uno](https://akizukidenshi.com/catalog/g/gM-07385/ "タイトル")
  >
  >[4bitデコーダマルチプレクサ 74159](https://html.alldatasheet.com/html-pdf/27375/TI/74159/19/1/74159.html "タイトル")
  >
- >[]( "タイトル")
+ >[フォトカプラ TLP592A](https://toshiba.semicon-storage.com/jp/semiconductor/product/isolators-solid-state-relays/photorelay-mosfet-output/detail.TLP592A.html "タイトル")
  >
- >[]( "タイトル")
- >
- >[]( "タイトル")
- >
- >[]( "タイトル")
+ >[コンパレータ NJM2903D](https://akizukidenshi.com/catalog/g/gI-13486/ "タイトル")
  <br>
  
-# Requirement
+# リポジトリ説明
  
-"hoge"を動かすのに必要なライブラリなどを列挙する
- 
-* huga 3.5.2
-* hogehuga 1.0.2
- 
-# Installation
- 
-Requirementで列挙したライブラリなどのインストール方法を説明する
- 
-```bash
-pip install huga_package
-```
- 
-# Usage
- 
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
- 
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
-```
- 
-# Note
- 
-注意点などがあれば書く
- 
-# Author
- 
-作成情報を列挙する
- 
-* 作成者
-* 所属
-* E-mail
- 
-# License
-ライセンスを明示する
- 
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
- 
-社内向けなら社外秘であることを明示してる
- 
-"hoge" is Confidential.
+ * Document: 毎回まとめたpdfを貼ります
+ * Image   : 画像をはります，写真もノートのスキャンもこちらです
+ * other   : その他の雑多なもの
