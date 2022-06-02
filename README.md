@@ -3,6 +3,7 @@
 <p><font soze=6>DataInputDevice for TK-80</font></p>
 </div>
  
+{: align="center"}
 ![](https://img.shields.io/badge/licence-masuda-green)
 ![](https://img.shields.io/badge/university-Chiba%20Institute%20of%20Technology-green)
 
