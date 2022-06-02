@@ -26,7 +26,7 @@
     </tbody>
   </table>
  </div>
- 
+ <br>
  
 # 概要
  
@@ -37,9 +37,8 @@
  
  インターネットに蔓延る情報を提供します
  
- <div>
-  <p>💻<a href="http://star.gmobb.jp/koji/cgi/wiki.cgi?page=TK%2D80%BB%F1%CE%C1%A5%E1%A5%E2">TK-80 仕様</a></p><br>
- </div>
+ -ハードウェア関連
+ >[リンクテキスト](http://star.gmobb.jp/koji/cgi/wiki.cgi?page=TK%2D80%BB%F1%CE%C1%A5%E1%A5%E2 "タイトル")
  
 # Requirement
  
