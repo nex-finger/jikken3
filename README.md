@@ -1,4 +1,7 @@
-# DataInputDevice for TK-80
+<div align="center">
+<img src="画像のPATH" alt="属性" title="タイトル">
+ # DataInputDevice for TK-80
+</div>
  
 分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
  
