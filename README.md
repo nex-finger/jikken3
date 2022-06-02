@@ -3,7 +3,7 @@
 <p><font soze=6>DataInputDevice for TK-80</font></p>
 </div>
  
- https://img.shields.io/badge/licence-masuda-brightgreen
+https://raw.githubusercontent.com/nex-finger/jikken3/583a917f85154047348a3879b10d1f249ae67490/Badge/licence-masuda-brightgreen.svg
  
 分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
  
