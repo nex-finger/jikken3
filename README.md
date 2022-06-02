@@ -4,7 +4,18 @@
 </div>
  
 <div align="center">
-<img src="https://img.shields.io/badge/licence-masuda-green" alt="logo" title="logo">
+ <img src="https://img.shields.io/badge/licence-masuda-green" alt="logo" title="logo">
+ <img src="https://img.shields.io/badge/licence-masuda-green" alt="logo" title="logo">
+ <img src="https://img.shields.io/badge/university-Chiba%20Institute%20of%20Technology-green" alt="logo" title="logo">
+ <img src="https://img.shields.io/badge/undergraduate-Computer%20Science-green" alt="logo" title="logo">
+ 
+ <img src="https://img.shields.io/badge/Arduino-blue" alt="logo" title="logo">
+ <img src="" alt="logo" title="logo">
+ <img src="" alt="logo" title="logo">
+ 
+ <img src="" alt="logo" title="logo">
+ <img src="" alt="logo" title="logo">
+ <img src="" alt="logo" title="logo">
 ![](https://img.shields.io/badge/licence-masuda-green)
 ![](https://img.shields.io/badge/university-Chiba%20Institute%20of%20Technology-green)
 ![](https://img.shields.io/badge/undergraduate-Computer%20Science-green)
