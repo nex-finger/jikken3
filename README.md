@@ -30,17 +30,18 @@
  
 # 概要
  
- 情報工学実験3の資料置き場
- Kansas City Standard (KCS) を用いたデータの解釈，解釈したデータのZK-80(TK-80互換機)への入力を実現する
+ 情報工学実験3の資料置き場<br>
+ Kansas City Standard (KCS) を用いたデータの解釈，解釈したデータのZK-80(TK-80互換機)への入力を実現する<br>
  
 # 参考文献
  
- インターネットに蔓延る情報を提供します
+ インターネットに蔓延る情報を提供します<>br
  
  * 💻ハードウェア関連
  >[TK-80 仕様](http://star.gmobb.jp/koji/cgi/wiki.cgi?page=TK%2D80%BB%F1%CE%C1%A5%E1%A5%E2 "タイトル")
  >
  >[ZK-80について](https://www.recfor.net/blog/mycom/?itemid=883 "タイトル")
+ <br>
 
  * 🔋部品データ
  >[Arduino uno](https://akizukidenshi.com/catalog/g/gM-07385/ "タイトル")
@@ -54,6 +55,7 @@
  >[]( "タイトル")
  >
  >[]( "タイトル")
+ <br>
  
 # Requirement
  
