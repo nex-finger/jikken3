@@ -10,8 +10,9 @@
 ![](https://img.shields.io/badge/Arduino-blue)
 ![](https://img.shields.io/badge/TK80-blue)
 ![](https://img.shields.io/badge/Kansas%20City%20standard%20(KCS)-blue)
-![](https://img.shields.io/badge/c++-blue)
-![](https://img.shields.io/badge/8080assembry-blue)
+![](https://img.shields.io/badge/c++-yellow)
+![](https://img.shields.io/badge/8080assembry-yellow)
+![](https://img.shields.io/badge/Java-yellow)
 
 分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
  
