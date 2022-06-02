@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/nex-finger/jikken3/main/Image/school_logo.png" alt="属性" title="タイトル">
- # DataInputDevice for TK-80
+<p><font soze=6>DataInputDevice for TK-80</font></p>
 </div>
  
 分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
