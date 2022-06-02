@@ -27,9 +27,11 @@
   </table>
  </div>
  
-# DEMO
  
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+# KCS InputDevice for TK-80
+ 
+ 情報工学実験3の資料置き場
+ Kansas City Standard (KCS) を用いたデータの解釈，解釈したデータの入力を実現する
  
 # Features
  
