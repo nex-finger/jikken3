@@ -1,5 +1,5 @@
 <div align="center">
-<img src="画像のPATH" alt="属性" title="タイトル">
+<img src="https://raw.githubusercontent.com/nex-finger/jikken3/main/Image/school_logo.png" alt="属性" title="タイトル">
  # DataInputDevice for TK-80
 </div>
  
