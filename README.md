@@ -5,7 +5,7 @@
  
 ![](https://img.shields.io/badge/licence-masuda-green)
 ![](https://img.shields.io/badge/university-Chiba%20Institute%20of%20Technology-green)
-![](https://img.shields.io/badge/undergraduate-)
+![](https://img.shields.io/badge/undergraduate-Computer%20Science-green)
 
 ![](https://img.shields.io/badge/Arduino-blue)
 ![](https://img.shields.io/badge/TK80-blue)
