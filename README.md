@@ -39,6 +39,7 @@
  
  * 💻ハードウェア関連
  >[TK-80 仕様](http://star.gmobb.jp/koji/cgi/wiki.cgi?page=TK%2D80%BB%F1%CE%C1%A5%E1%A5%E2 "タイトル")
+ >
  >[ZK-80について](https://www.recfor.net/blog/mycom/?itemid=883 "タイトル")
  
 # Requirement
