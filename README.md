@@ -1,8 +1,10 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/nex-finger/jikken3/main/Image/school_logo.png" alt="属性" title="タイトル">
-<p><font soze=7>KCS InputDevice for TK-80</font></p>
+<img src="https://raw.githubusercontent.com/nex-finger/jikken3/main/Image/school_logo.png" alt="logo" title="logo">
+<p>KCS InputDevice for TK-80</p>
 </div>
  
+<div align="center">
+<img src="https://img.shields.io/badge/licence-masuda-green" alt="logo" title="logo">
 ![](https://img.shields.io/badge/licence-masuda-green)
 ![](https://img.shields.io/badge/university-Chiba%20Institute%20of%20Technology-green)
 ![](https://img.shields.io/badge/undergraduate-Computer%20Science-green)
@@ -15,7 +17,6 @@
 ![](https://img.shields.io/badge/Java-yellow)
 ![](https://img.shields.io/badge/8080assembry-yellow)
 
-<div align="center">
 <table>
 <tbody>
 <td align="center">
