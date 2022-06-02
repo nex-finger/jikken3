@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/Arduino-red)
 ![](https://img.shields.io/badge/TK-80-red)
-![](https://img.shields.io/badge/Kansas City standard (KCS)-red)
+![](https://img.shields.io/badge/Kansas%20City%20standard%20(KCS)-red)
 
 分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
  
