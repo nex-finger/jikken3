@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/nex-finger/jikken3/main/Image/school_logo.png" alt="logo" title="logo">
+<img src="https://raw.githubusercontent.com/nex-finger/jikken3/main/Image/readme-logo.png" alt="logo" title="logo">
 <p>KCS InputDevice for TK-80</p>
 </div>
  
