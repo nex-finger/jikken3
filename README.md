@@ -18,17 +18,17 @@
  <img src="https://img.shields.io/badge/8080assembry-yellow">
  <br>
 
-<table>
-<tbody>
-<td align="center">
-<img width="2000" height="0"><br>
-Status: <b>Public Beta 🎉</b><br>
-<sub>Made possible by my <a href="https://github.com/sponsors/antfu">Sponsor Program 💖</a></sub><br>
-<img width="2000" height="0">
-</td>
-</tbody>
-</table>
-</div>
+ <table>
+  <tbody>
+   <td align="center">
+    <img width="2000" height="0"><br>
+    Status: <b>Public Beta 🎉</b><br>
+    <sub>Made possible by my <a href="https://github.com/sponsors/antfu">Sponsor Program 💖</a></sub><br>
+    <img width="2000" height="0">
+    </td>
+    </tbody>
+  </table>
+ </div>
  
 # DEMO
  
