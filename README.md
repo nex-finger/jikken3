@@ -2,7 +2,7 @@
  <img src="https://raw.githubusercontent.com/nex-finger/jikken3/main/Image/readme-logo.png" alt="logo" title="logo">
  <br>
  <img src="https://img.shields.io/badge/licence-masuda-green">
- <img src="https://img.shields.io/badge/university-Chiba%20Institute%20of%20Technology-green">
+ <img src="https://img.shields.io/badge/university-CIT-green">
  <img src="https://img.shields.io/badge/undergraduate-Computer%20Science-green">
  <br>
  <img src="https://img.shields.io/badge/Arduino-blue">
