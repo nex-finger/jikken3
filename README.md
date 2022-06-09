@@ -10,7 +10,7 @@
  <img src="https://img.shields.io/badge/Kansas%20City%20standard%20(KCS)-blue">
  <br>
  <img src="https://img.shields.io/badge/c++-yellow">
- <img src="https://img.shields.io/badge/Java-yellow">
+ <img src="https://img.shields.io/badge/Python-yellow">
  <img src="https://img.shields.io/badge/8080assembry-yellow">
  <br>
 
