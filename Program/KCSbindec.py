@@ -35,29 +35,37 @@ def transwave(signal):
     freqency = int(feqtxt1.get())
     times = int(feqtxt2.get())
 
-    wave = []
-    length = len(signal)
+    # 40000sample x 300secondの配列
+    wave = [0] * 12000000
 
+    numsignal = numpy.array(signal, dtype = 'uint8')
+    numwave = numpy.array(wave, dtype = 'uint8')
+
+    length = len(numsignal)
+
+    h = 0
     for i in range (length):
         print(i)
-        if signal[i] == 0:
+        if numsignal[i] == 0:
             tfre = freqency
             ttim = times
-        elif signal[i] == 1:
+        elif numsignal[i] == 1:
             tfre = int(freqency / 2)
             ttim = int(times + times)
-        elif signal[i] == 2:
+        elif numsignal[i] == 2:
             tfre = int(freqency + freqency)
             ttim = int(times / 2)
 
         for j in range (ttim):
             for k in range (tfre):
-                wave = wave + [224]
+                numwave[h] = 224
+                h += 1
             for l in range (tfre):
-                wave = wave + [32]
+                numwave[h] = 32
+                h += 1
 
     print("AAA")
-    finwave = numpy.array(wave, dtype = 'uint8')
+    finwave = numpy.array(numwave, dtype = 'uint8')
     print("finwave:\n")
     print(finwave)
 
@@ -136,9 +144,9 @@ def outfile():
             signal = signal + [2]
             incr = 0
 
-        # print(datalist1)
-        # print(sgnllist)
-        # print("\n")
+        print(datalist1)
+        print(sgnllist)
+        print("\n")
 
     print("0xdata:\n", bindata, "\n")
     print("signal:\n", signal, "\n")
