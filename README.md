@@ -19,7 +19,7 @@
    <td align="center">
     <img width="2000" height="0"><br>
     Status: <b>Unfinished</b><br>
-    LatestUpdate: <b>2022/06/09</b><br>
+    LatestUpdate: <b>2022/06/16</b><br>
     <img width="2000" height="0">
     </td>
     </tbody>
@@ -64,4 +64,5 @@
  >[フォトカプラ TLP592A](https://toshiba.semicon-storage.com/jp/semiconductor/product/isolators-solid-state-relays/photorelay-mosfet-output/detail.TLP592A.html "タイトル")
  >
  >[コンパレータ NJM2903D](https://akizukidenshi.com/catalog/g/gI-13486/ "タイトル")
+ >https://www.youtube.com/watch?v=rtqjt72nOPw
  <br>
