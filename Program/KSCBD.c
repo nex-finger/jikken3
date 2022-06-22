@@ -12,7 +12,6 @@ const char ham[3][7] = {{0, 0, 0, 1, 1, 1, 1},
 
 const int span0 = 2000;                                         // 信号'0'の電圧立ち上がり理論値
 const int span1 = 1000;                                         // 信号'1'の電圧立ち上がり理論値
-const int span2 = 4000;                                         // 信号'2'の電圧立ち上がり理論値
 const float uplimit = 1.1;                                      // 信号の曖昧さ許容
 const float lowlimit = 0.9;
 
