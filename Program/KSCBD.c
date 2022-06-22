@@ -20,8 +20,7 @@ void dataedit() {
     char i, j, k;
     char shell[4];
     char error[3];
-
-    swtE = 1 - swtE;
+  
     errnum = 0;
 
     for(i = 0; i < 2; i++){                                     // 電圧立ち上がり x 16 x 7 x 2回で1バイトの情報
@@ -88,6 +87,7 @@ void setup() {
 void loop() {
     if(flag == 1){
         flag = 0;
+        swtE = 1 - swtE;
         dataedit();                                             // データの変換
         TKprint(C[0]);                                          // TK-80に入力
         TKprint(C[1]);
