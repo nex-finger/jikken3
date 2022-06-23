@@ -19,7 +19,7 @@
    <td align="center">
     <img width="2000" height="0"><br>
     Status: <b>Unfinished</b><br>
-    LatestUpdate: <b>2022/06/</b><br>
+    LatestUpdate: <b>2022/06/23</b><br>
     <img width="2000" height="0">
     </td>
     </tbody>
