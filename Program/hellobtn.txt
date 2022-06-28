@@ -1,0 +1,27 @@
+FILE: HELLOBTN.8080
+NAME: MasudaMizuki
+DATE: 2022/06/28
+
+ADRS:       CODE        ASSEMBLY
+------------------------------------------------
+                            ORG 8000H
+                        HELLO:
+8000H:      3E 00           LD A, 00H
+8002H:      21 F8 83        LD HL, 83F8H
+8005H:      22 76           LD (HL), 01110110B
+8007H:      34              INC HL
+8008H:      22 79           LD (HL), 01111001B
+800AH:      34              INC HL
+800BH:      22 28           LD (HL), 00111000B
+800DH:      34              INC HL
+800EH:      22 28           LD (HL), 00111000B
+8010H:      34              INC HL
+8011H:      22 3F           LD (HL), 00111111B
+                        BTN:
+8013H:      CD 16 02        CALL 0216H
+8016H:      FE FF           CP FF
+8018H:      CA 13 80        JP Z, BTN:
+801BH:      21 F7 83        LD HL, 83F7H
+801EH:      77              LD (HL), A
+801FH:      CD C0 01        CALL 01C0H
+8022H:      C3 00 80        JP HELLO:
